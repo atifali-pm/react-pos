@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7df87732-71e4-4525-8959-895b8ab9218e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Product.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend" beforeDir="false" afterPath="$PROJECT_DIR$/frontend" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/src/pages/home/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/home/Home.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/productRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/productRouter.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +20,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript JSX File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -68,7 +70,7 @@
       <workItem from="1667460314589" duration="5005000" />
       <workItem from="1667469231707" duration="12866000" />
       <workItem from="1667817608074" duration="7968000" />
-      <workItem from="1667904624155" duration="1676000" />
+      <workItem from="1667904624155" duration="6577000" />
     </task>
     <servers />
   </component>
