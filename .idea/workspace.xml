@@ -3,14 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7df87732-71e4-4525-8959-895b8ab9218e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/Layout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/Layout.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend" beforeDir="false" afterPath="$PROJECT_DIR$/frontend" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/src/pages/home/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/home/Home.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/pages/products/Products.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/products/Products.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +24,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -73,7 +67,8 @@
       <updated>1667460313486</updated>
       <workItem from="1667460314589" duration="5005000" />
       <workItem from="1667469231707" duration="12866000" />
-      <workItem from="1667817608074" duration="3409000" />
+      <workItem from="1667817608074" duration="7968000" />
+      <workItem from="1667904624155" duration="1676000" />
     </task>
     <servers />
   </component>
